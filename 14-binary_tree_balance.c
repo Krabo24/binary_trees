@@ -38,7 +38,7 @@ int binary_tree_balance_height(const binary_tree_t *tree)
 /**
  * binary_tree_balance - measures the balance factor of a binary tree
  * @tree: root node from which to measure
- * Return: height of `tree` left subtree minus height of right 
+ * Return: height of `tree` left subtree minus height of right
  * subtree or 0 if `tree` is NULL
  */
 
